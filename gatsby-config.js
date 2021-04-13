@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Evomo | Environment Monitoring System`,
-    description: `Evomo is a solution for monitoring environment with Internet of Things (IIoT) technology.`,
-    author: `Evomo Admin`,
+    title: `Areta Informatics College`,
+    description: `KULIAH IT LANGSUNG PRAKTEK`,
+    author: `All Team`,
   },
   plugins: [
     {

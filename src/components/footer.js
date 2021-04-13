@@ -12,7 +12,7 @@ import evomob from "../images/cp-fo-mo.svg"
 
 const Footer = () => {
   return (
-    <div className="main-footer">
+    <div className="main-footer" id="footer">
       <div className="container">
         <div className="row">
           
@@ -27,9 +27,10 @@ const Footer = () => {
           {/* Col 1 */}
           <div className="col no-flex" >
             <ul className="list-unstyled">
-              <a href="/"><li className="li-fo">Beranda</li> </a>
-              <a href="/"><li className="li-fo">Cara Kerja</li></a>
-              <a href="/"><li className="li-fo">Fitur</li></a>
+              <a href="/"><li className="li-fo">Home</li> </a>
+              <a href="/"><li className="li-fo">Testimoni</li></a>
+              <a href="/"><li className="li-fo">Project</li></a>
+              <a href="/"><li className="li-fo">About</li></a>
               <a href="/"><li className="li-fo">Hubungi Kami</li></a>
             </ul>
           </div>

@@ -15,7 +15,7 @@ const SectionTwo = () =>{
           <Image src={logo2} width="auto" height="auto"/>
         </Row>             
  
-        <Row className="d-flex justify-content-center align-items-center mlp5">
+        <Row className="d-flex justify-content-center align-items-center mlp5" id="monitoring">
           <Col md="{{ span: 6, offset: 3 }}"><h6 className="txt-1">ENVIRONMENT MONITORING SYSTEM</h6></Col>
         </Row>
  
