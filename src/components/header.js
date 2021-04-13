@@ -19,7 +19,7 @@ const Header = () => (
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="ml-auto">
       <Nav.Link className="pad-header-li" href="/">Home</Nav.Link>
-      <Nav.Link className="pad-header-li" href="#monitoring">Testimoni</Nav.Link>
+      <Nav.Link className="pad-header-li" href="#testimoni">Testimoni</Nav.Link>
       <Nav.Link className="pad-header-li" href="/cara-kerja/">Project</Nav.Link>
       <Nav.Link className="pad-header-li" href="#project">About</Nav.Link>
       <Nav.Link className="pad-header-li" href="#footer">Hubungi Kami</Nav.Link>

@@ -25,6 +25,7 @@ const SectionThree = () =>{
             </Row>
            <ProjectsPage />
            <AboutPage />
+        
         </Container>
     )
 }
