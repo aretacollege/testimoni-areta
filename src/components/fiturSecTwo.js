@@ -16,8 +16,7 @@ const FiturSectionTwo = () =>{
         <Row className="justify-content-md-center mb3">
             <Col className="cont3" md={{ span: 5, offset: 1, order: 1 }} sm={6} xs={{ span: 6, order: 12}} large={6}>
                 <h1 className="head1"><i>Realtime Monitoring</i></h1>
-                <p className="resp">Pantau kondisi dan kualitas energi di lingkungan<br/>Anda sesuai dengan apa yang terjadi di lapangan <br/>langsung dari perangkat Anda</p>
-            
+                <p className="resp">Pantau kondisi dan kualitas energi di lingkungan<br/>Anda sesuai dengan apa yang terjadi di lapangan <br/>langsung dari perangkat Anda</p>          
             </Col>
             <Col md={{ span: 6, order: 12}}>
                 <img src= {image1} width={500} height={372} className="ml-3 mob-resp" alt="Generic placeholder"

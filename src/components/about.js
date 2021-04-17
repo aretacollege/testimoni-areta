@@ -3,7 +3,6 @@ import { Row, Col } from "react-bootstrap";
 import areta from "../images/areta.png"
 const AboutPage = ()=> {
     return (      
-      
         <Row>
           <Col>
           <h2 className="h1-responsive font-weight-bold my-5 text-center">About</h2>
